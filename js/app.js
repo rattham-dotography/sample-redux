@@ -14,4 +14,5 @@
 //import './samples/simple-todolist-store-via-context';
 //import './samples/simple-todolist-store-via-provider';
 //import './samples/simple-todolist-connect';
-import './samples/simple-todolist-action-creator';
+//import './samples/simple-todolist-action-creator';
+import './samples/simple-rest';
